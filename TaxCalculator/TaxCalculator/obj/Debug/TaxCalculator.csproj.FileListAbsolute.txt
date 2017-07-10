@@ -1,0 +1,9 @@
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.Cache
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+c:\users\kadir\onedrive\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frm1.resources
